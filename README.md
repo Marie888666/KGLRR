@@ -16,11 +16,13 @@ data$Treutlin- Treutlin dataset original expression data. The original data can 
 
 Preprocessing approach
 FilterGenesZero.m---The gene filter step, we remove the genes whose expressions (the expression of the gene is nonzero) are <5% of all cells.
+
 normalize.m---L2-norm is applied on gene expression of each cell to eliminate the scale differences among samples.
 
 KGLRR approach
 lrr_relaxed.m---The core code of KGLRR. KGLRR performs simultaneously dimensionality reduction and clustering using low-rank representation and K-means clustering. 
 
+![image](https://user-images.githubusercontent.com/59751867/221348668-8e208d18-b359-47e4-a7a6-a782a5c02395.png)
 
 
 Please send any questions or found bugs to wanglinpingqfu@126.com.
