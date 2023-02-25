@@ -4,6 +4,8 @@
 
 KGLRR  Overview:
 
+![image](https://user-images.githubusercontent.com/59751867/221348668-8e208d18-b359-47e4-a7a6-a782a5c02395.png)
+
 KGLRR performs simultaneously dimensionality reduction and clustering using low-rank representation and K-means clustering. 
 
 KGLRR is written in the MATLAB programming language. To use, please download the KGLRR folder and follow the instructions provided in the “README.doc”.
@@ -22,7 +24,7 @@ normalize.m---L2-norm is applied on gene expression of each cell to eliminate th
 KGLRR approach
 lrr_relaxed.m---The core code of KGLRR. KGLRR performs simultaneously dimensionality reduction and clustering using low-rank representation and K-means clustering. 
 
-![image](https://user-images.githubusercontent.com/59751867/221348668-8e208d18-b359-47e4-a7a6-a782a5c02395.png)
+
 
 
 Please send any questions or found bugs to wanglinpingqfu@126.com.
