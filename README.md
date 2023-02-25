@@ -4,7 +4,7 @@
 
 KGLRR  Overview:
 
-![image](https://user-images.githubusercontent.com/59751867/221348668-8e208d18-b359-47e4-a7a6-a782a5c02395.png)
+
 
 KGLRR performs simultaneously dimensionality reduction and clustering using low-rank representation and K-means clustering. 
 
